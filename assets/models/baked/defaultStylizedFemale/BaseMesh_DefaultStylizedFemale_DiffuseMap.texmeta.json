@@ -1,0 +1,8 @@
+{
+    "compressed": {
+        "COMPRESSED_SRGB8_ALPHA8_ETC2_EAC": "../BaseMesh_DefaultStylizedFemale_DiffuseMap_COMPRESSED_SRGB8_ALPHA8_ETC2_EAC.ktx",
+        "COMPRESSED_SRGB_ALPHA_S3TC_DXT5_EXT": "../BaseMesh_DefaultStylizedFemale_DiffuseMap_COMPRESSED_SRGB_ALPHA_S3TC_DXT5_EXT.ktx"
+    },
+    "original": "../BaseMesh_DefaultStylizedFemale_DiffuseMap.png",
+    "uncompressed": ""
+}

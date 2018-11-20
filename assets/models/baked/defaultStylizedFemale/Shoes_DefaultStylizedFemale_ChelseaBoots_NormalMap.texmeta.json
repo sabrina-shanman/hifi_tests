@@ -1,0 +1,8 @@
+{
+    "compressed": {
+        "COMPRESSED_RG11_EAC": "../Shoes_DefaultStylizedFemale_ChelseaBoots_NormalMap_COMPRESSED_RG11_EAC.ktx",
+        "COMPRESSED_RG_RGTC2": "../Shoes_DefaultStylizedFemale_ChelseaBoots_NormalMap_COMPRESSED_RG_RGTC2.ktx"
+    },
+    "original": "../Shoes_DefaultStylizedFemale_ChelseaBoots_NormalMap.png",
+    "uncompressed": ""
+}

@@ -1,0 +1,8 @@
+{
+    "compressed": {
+        "COMPRESSED_SRGB8_ALPHA8_ETC2_EAC": "../Jacket_DefaultStylizedFemale_LeatherJacketOpen_DiffuseMap_COMPRESSED_SRGB8_ALPHA8_ETC2_EAC.ktx",
+        "COMPRESSED_SRGB_S3TC_DXT1_EXT": "../Jacket_DefaultStylizedFemale_LeatherJacketOpen_DiffuseMap_COMPRESSED_SRGB_S3TC_DXT1_EXT.ktx"
+    },
+    "original": "../Jacket_DefaultStylizedFemale_LeatherJacketOpen_DiffuseMap.png",
+    "uncompressed": ""
+}

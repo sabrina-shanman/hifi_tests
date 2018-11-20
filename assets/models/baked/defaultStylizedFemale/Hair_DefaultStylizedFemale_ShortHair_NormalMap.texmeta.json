@@ -1,0 +1,8 @@
+{
+    "compressed": {
+        "COMPRESSED_RG11_EAC": "../Hair_DefaultStylizedFemale_ShortHair_NormalMap_COMPRESSED_RG11_EAC.ktx",
+        "COMPRESSED_RG_RGTC2": "../Hair_DefaultStylizedFemale_ShortHair_NormalMap_COMPRESSED_RG_RGTC2.ktx"
+    },
+    "original": "../Hair_DefaultStylizedFemale_ShortHair_NormalMap.png",
+    "uncompressed": ""
+}

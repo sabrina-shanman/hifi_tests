@@ -1,0 +1,8 @@
+{
+    "compressed": {
+        "COMPRESSED_RG11_EAC": "../BaseMesh_DefaultStylizedFemale_NormalMap_COMPRESSED_RG11_EAC.ktx",
+        "COMPRESSED_RG_RGTC2": "../BaseMesh_DefaultStylizedFemale_NormalMap_COMPRESSED_RG_RGTC2.ktx"
+    },
+    "original": "../BaseMesh_DefaultStylizedFemale_NormalMap.png",
+    "uncompressed": ""
+}

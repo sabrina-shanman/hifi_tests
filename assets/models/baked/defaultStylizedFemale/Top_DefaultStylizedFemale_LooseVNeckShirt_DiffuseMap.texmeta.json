@@ -1,0 +1,8 @@
+{
+    "compressed": {
+        "COMPRESSED_SRGB8_ALPHA8_ETC2_EAC": "../Top_DefaultStylizedFemale_LooseVNeckShirt_DiffuseMap_COMPRESSED_SRGB8_ALPHA8_ETC2_EAC.ktx",
+        "COMPRESSED_SRGB_ALPHA_S3TC_DXT5_EXT": "../Top_DefaultStylizedFemale_LooseVNeckShirt_DiffuseMap_COMPRESSED_SRGB_ALPHA_S3TC_DXT5_EXT.ktx"
+    },
+    "original": "../Top_DefaultStylizedFemale_LooseVNeckShirt_DiffuseMap.png",
+    "uncompressed": ""
+}
