@@ -2,7 +2,7 @@ This repository contains a suite of scripts for benchmarking Interface.  Scenes 
 
 Creating a trace
 =========
-To use the benchmarking functionality, navigate to the hifi_tests/benchmarks directory, select the desired benchmark script, and run Interface from the command line as follows:
+To use the benchmarking functionality, you will need to have a local copy of the hifi_tests repository. From the command line, navigate to the benchmarks directory of your local copy of hifi_tests, and run Interface from the command line as follows:
 
 	"%INTERFACE_EXE_PATH%" --testScript "%BENCHMARK_SCRIPT%"
 
